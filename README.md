@@ -1,2 +1,2 @@
-# Catalan_surveys
+# CatalanSurveys
 print("Hello World!")
